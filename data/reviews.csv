@@ -1,0 +1,31 @@
+ProductID,CustomerID,Rating,ReviewText,ReviewDate
+1,1,5,"Excellent quality and value.",2024-01-15 10:30:00
+2,2,4,"Good product but delivery was slow.",2024-01-16 14:20:00
+3,3,3,"Average experience.",2024-01-17 09:45:00
+4,4,5,"Highly recommend this!",2024-01-18 16:50:00
+5,5,4,"Very satisfied with my purchase.",2024-01-19 12:15:00
+6,6,2,"Not as expected, poor build quality.",2024-01-20 15:10:00
+7,7,5,"Loved it! Perfect for my needs.",2024-01-21 11:30:00
+8,8,4,"Good quality, but slightly overpriced.",2024-01-22 13:45:00
+9,9,5,"Amazing product, very durable.",2024-01-23 14:00:00
+10,10,3,"Okay, nothing special.",2024-01-24 09:10:00
+11,11,4,"Satisfied with the overall experience.",2024-01-25 18:20:00
+12,12,5,"Fantastic! Exceeded expectations.",2024-01-26 10:25:00
+13,13,1,"Terrible experience. Would not buy again.",2024-01-27 17:15:00
+14,14,5,"Best product in its category!",2024-01-28 11:40:00
+15,15,4,"Good value for money.",2024-01-29 13:35:00
+16,16,3,"Average, could be improved.",2024-01-30 16:00:00
+17,17,5,"Excellent build quality!",2024-01-31 15:25:00
+18,18,4,"Very good, would buy again.",2024-02-01 12:45:00
+19,19,2,"Not worth the price.",2024-02-02 10:55:00
+20,20,5,"Superb! Completely satisfied.",2024-02-03 09:35:00
+21,21,3,"It's okay, but I expected better.",2024-02-04 14:50:00
+22,22,4,"Good product, prompt delivery.",2024-02-05 11:30:00
+23,23,5,"Fantastic item, highly recommended.",2024-02-06 13:20:00
+24,24,4,"Works as described. Happy with it.",2024-02-07 15:10:00
+25,25,1,"Broke after first use. Disappointed.",2024-02-08 09:50:00
+26,26,5,"Great quality and value!",2024-02-09 14:15:00
+27,27,3,"It's decent, nothing extraordinary.",2024-02-10 10:05:00
+28,28,5,"Exceptional quality, love it!",2024-02-11 16:20:00
+29,29,4,"Good product, but packaging was damaged.",2024-02-12 13:40:00
+30,30,5,"Perfect in every way!",2024-02-13 11:55:00

@@ -1,0 +1,31 @@
+ProductName,CategoryID,Price,StockQuantity,Description
+Basketball,1,29.99,50,Official size basketball suitable for all surfaces.
+Soccer Ball,2,19.99,100,Durable soccer ball for outdoor and indoor play.
+Baseball Glove,3,49.99,30,Premium leather glove for better grip.
+Running Shoes,4,79.99,75,Lightweight running shoes for all terrains.
+Yoga Mat,10,25.99,60,Non-slip yoga mat for comfort and stability.
+Tennis Racket,8,89.99,40,Professional-grade racket with excellent control.
+Boxing Gloves,9,39.99,50,High-quality gloves for training and sparring.
+Camping Tent,14,199.99,20,4-person waterproof tent for camping trips.
+Hiking Boots,15,129.99,35,Durable and comfortable hiking boots.
+Fishing Rod,23,99.99,15,Lightweight rod with a sturdy build.
+Cycling Helmet,6,59.99,45,Adjustable helmet for safety on the road.
+Swim Goggles,7,14.99,80,Anti-fog goggles with UV protection.
+Golf Clubs,12,299.99,10,Complete set of clubs for beginners and pros.
+Snowboard,13,249.99,5,High-performance snowboard for winter sports.
+Skateboard,16,89.99,25,Durable skateboard for tricks and stunts.
+Martial Arts Uniform,17,34.99,50,Comfortable uniform for martial arts practice.
+Cricket Bat,19,59.99,20,Professional-grade bat for competitive play.
+Table Tennis Paddle,20,19.99,60,Ergonomic paddle for better control.
+Volleyball,21,24.99,40,Official size volleyball for indoor and beach games.
+Archery Bow,28,149.99,10,Precision bow for competitive archery.
+Diving Mask,27,49.99,30,Tempered glass mask for clear underwater vision.
+Rowing Machine,29,599.99,5,Home rowing machine for full-body workouts.
+Kickboxing Pads,30,69.99,25,Pads for kickboxing training and sparring.
+Badminton Racket,24,29.99,60,Lightweight racket for fast gameplay.
+Track Spikes,25,79.99,20,Spikes for superior traction on the track.
+Equestrian Helmet,26,149.99,15,Safety helmet for horseback riding.
+Running Socks,4,9.99,100,Moisture-wicking socks for runners.
+Climbing Rope,11,159.99,10,Heavy-duty rope for climbing activities.
+Waterproof Jacket,15,89.99,30,Jacket designed for extreme weather conditions.
+Resistance Bands,5,19.99,75,Set of resistance bands for versatile workouts.
